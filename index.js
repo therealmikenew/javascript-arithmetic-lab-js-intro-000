@@ -3,6 +3,10 @@ function add (num1, num2) {
 
 }
 
-function subtract (){
+function subtract () {
+
+}
+
+function multiply () {
   
 }
