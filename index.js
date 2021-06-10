@@ -5,18 +5,20 @@ function add (a, b) {
 
 add ();
 
-function subtract () {
-
+function subtract (a, b) {
+  return a - b;
 }
 
-function multiply () {
+subtract ();
 
+function multiply (a, b) {
+  return a * b;
 }
+
+multiply ();
 
 function divide () {
 
 }
 
-function increment(n) {
-  n += 1;
-}
+
