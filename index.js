@@ -20,5 +20,3 @@ multiply ();
 function divide () {
 
 }
-
-
