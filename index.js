@@ -22,3 +22,9 @@ function divide (a, b) {
 }
 
 divide ();
+
+function increment (n) {
+  return n ++
+}
+
+increment ();
