@@ -3,6 +3,8 @@ function add (a, b) {
 
 }
 
+add ();
+
 function subtract () {
 
 }
