@@ -3,4 +3,3 @@ function add (num1, num2) {
 
 }
 
-add (80, 1);
