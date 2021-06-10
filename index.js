@@ -28,3 +28,9 @@ function increment (n) {
 }
 
 increment ();
+
+function decrement (n) {
+  return n--;
+}
+
+decrement ();
