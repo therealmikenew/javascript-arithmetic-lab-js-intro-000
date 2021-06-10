@@ -12,5 +12,9 @@ function multiply () {
 }
 
 function divide () {
-  
+
+}
+
+function increment(n) {
+  n +=;
 }
