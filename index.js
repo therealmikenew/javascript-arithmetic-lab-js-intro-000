@@ -41,3 +41,9 @@ function makeInt (string){
   var newValue = parseInt (string, 10);
   return newValue;
 }
+
+
+function preserveDecimal (string) {
+  var newValue = parseFloat (string, 10);
+  return newValue;
+}
