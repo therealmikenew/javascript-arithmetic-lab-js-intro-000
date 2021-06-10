@@ -24,13 +24,15 @@ function divide (a, b) {
 divide ();
 
 function increment (n) {
-  return n++
+  n++;
+  return n;
 }
 
 increment ();
 
 function decrement (n) {
-  return n--;
+  n--;
+  return n;
 }
 
 decrement ();
