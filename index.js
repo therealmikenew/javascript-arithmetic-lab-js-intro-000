@@ -38,6 +38,6 @@ function decrement (n) {
 decrement ();
 
 function makeInt (string){
-  newValue = parseInt (string, 10);
+  var newValue = parseInt (string, 10);
   return newValue;
 }
